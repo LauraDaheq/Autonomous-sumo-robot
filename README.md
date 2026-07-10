@@ -207,17 +207,6 @@ This project is released under the MIT License.
 
 ---
 
-## 👩‍💻 Author
-
-**Laura Daniela Hernandez Ramos**
-
-Electronic Engineer
-
-- GitHub: https://github.com/LauraDaheq
-- LinkedIn: https://www.linkedin.com/in/laura-daniela-hernandez-ramos-891482311/
-
----
-
 ## ⭐ About
 
 This project was developed as part of a robotics competition to design and program an autonomous sumo robot capable of detecting opponents, avoiding arena boundaries, and making real-time decisions using embedded systems.
