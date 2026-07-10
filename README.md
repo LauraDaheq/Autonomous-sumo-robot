@@ -1,2 +1,14 @@
-# Autonomous-sumo-robot
-Embedded systems project featuring an autonomous Arduino-based sumo robot with ultrasonic sensing, line detection, and strategic motor control for robotics competitions.
+/********************************************************************
+ Project: Autonomous Sumo Robot
+
+ Description:
+ Autonomous robot developed for robotics competitions using Arduino.
+ The robot searches for opponents with ultrasonic sensors while
+ avoiding the arena boundary using infrared sensors.
+
+ Technologies:
+ - Arduino
+ - C++
+ - Embedded Systems
+ - Robotics
+********************************************************************/
