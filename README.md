@@ -1,5 +1,4 @@
-/********************************************************************
- Project: Autonomous Sumo Robot
+Project: Autonomous Sumo Robot
 
  Description:
  Autonomous robot developed for robotics competitions using Arduino.
@@ -11,4 +10,3 @@
  - C++
  - Embedded Systems
  - Robotics
-********************************************************************/
