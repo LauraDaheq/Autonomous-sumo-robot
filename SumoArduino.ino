@@ -1,7 +1,6 @@
 /*****************************************************************************************
  * Project: Autonomous Sumo Robot
- * Author: Laura Daniela Hernandez Ramos
- *
+ 
  * Description:
  * Autonomous sumo robot developed for robotics competitions using Arduino.
  * The robot detects opponents with ultrasonic sensors and avoids leaving
